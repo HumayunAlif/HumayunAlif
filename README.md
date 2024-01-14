@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HumayunAlif
+- 👋 Hi, I’m @HumayunKabir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning structured programming language ( C )
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me email in kabir1alif@gmail.com
 
